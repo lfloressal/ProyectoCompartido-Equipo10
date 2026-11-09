@@ -1,0 +1,18 @@
+PROYECTO COMPARTIDO - UD3 EGit
+
+Proyecto Java preparado para importar en Eclipse.
+
+IMPORTAR:
+1. Descomprime ProyectoCompartido.zip.
+2. En Eclipse: File > Import > General > Existing Projects into Workspace.
+3. Select root directory > Browse > selecciona la carpeta ProyectoCompartido.
+4. Selecciona el proyecto y pulsa Finish.
+5. Ejecuta src/actividad/Principal.java con Run As > Java Application.
+
+ACTIVIDAD EN PAREJA:
+- Alumno A importa este ZIP, hace Team > Share Project, commit y push a su repositorio de GitHub.
+- Alumno A invita a B como colaborador y B acepta.
+- Alumno B NO importa el ZIP para trabajar: clona el repositorio de A desde GitHub.
+- B modifica el mensaje, hace commit y push. A hace pull.
+
+El archivo .gitignore excluye bin/ y *.class, no los archivos de configuracion necesarios para importar el proyecto.

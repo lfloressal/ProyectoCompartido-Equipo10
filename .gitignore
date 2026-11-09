@@ -1,0 +1,5 @@
+# Archivos generados por Eclipse y Java
+/bin/
+*.class
+# Archivos temporales
+*.log
